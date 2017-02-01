@@ -4,12 +4,14 @@ A basic OPENGL Laser game with falling bricks.
 # EXTRA LIBRARIES REQUIRED
   * libao-dev
   * mpg123-dev
+  
 # HOW TO RUN
   * make
   * ./sample2D
 
 # HOW TO PLAY
-  1.Keyboard Controls:
+
+        1.Keyboard Controls:
 		* Use keys a,d to tilt the canon up and down
 		* Use keys s,f to move the canon up and down 
 		* Use keys n,m to increase/decrease the speed of bricks falling
